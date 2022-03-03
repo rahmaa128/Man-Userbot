@@ -40,7 +40,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 </details>
 
 <details>
-<summary><b>🔗 Deploy di VPS</b></summary>
+<https://github.com/dwiatak/Man-Userbot><b>🔗 Deploy di VPS</b></summary>
 <br>
     
 ### REQUIREMENTS PACKAGE !
